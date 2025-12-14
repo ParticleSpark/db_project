@@ -36,11 +36,9 @@ db_test/
 │   └── ... (更多图表)
 ├── app.py                             # Streamlit Web应用 ⭐
 ├── quick_start.py                     # 快速启动脚本 🚀
-├── test_installation.py               # 安装测试脚本
 ├── config.py                          # 配置文件
 ├── requirements.txt                   # 依赖包列表
 ├── README.md                          # 本文件
-└── USAGE_GUIDE.md                     # 详细使用指南 📖
 ```
 
 ## 🚀 快速开始（3步完成）
@@ -369,7 +367,6 @@ python -c "import pandas as pd; pd.read_csv('file.csv', encoding='gbk').to_csv('
 
 ## 📚 相关文档
 
-- 📖 **[USAGE_GUIDE.md](USAGE_GUIDE.md)** - 完整使用指南（必读！）
 - 📝 **[config.py](config.py)** - 配置文件说明
 - 🚀 **[quick_start.py](quick_start.py)** - 快速启动脚本
 

@@ -185,7 +185,6 @@ def main():
     print("="*70)
     print(f"  📁 静态图表: visualizations/")
     print(f"  📄 性能数据: data/")
-    print(f"  📖 使用指南: USAGE_GUIDE.md")
     print("\n✨ 所有操作完成!")
 
 if __name__ == "__main__":
